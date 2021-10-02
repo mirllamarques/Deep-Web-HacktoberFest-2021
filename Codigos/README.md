@@ -10,4 +10,4 @@
 
 - Se você tá começando a programar agora vem dar o seu alô pro mundo mandando uma PR em Hello World
 
-#ATENÇÃO: o nome do seu arquivo deve ser relacionado ao que ele faz
+# ATENÇÃO: o nome do seu arquivo deve ser relacionado ao que ele faz
