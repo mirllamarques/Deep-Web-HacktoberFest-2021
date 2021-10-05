@@ -45,6 +45,8 @@ Nas principais plataformas digitais no computador (Steam, Epic Games, Origin...)
 
 
 
+
+
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/230820/ss_b5f92a174c9f5e9b704a979589fa06751c7c3794.1920x1080.jpg?t=1578499642 =100x20" alt="the night of the rabbit" style="zoom:20%;"/> <img src="https://cdn.akamai.steamstatic.com/steam/apps/230820/ss_2cec56ae7cbeaf26533165b967b0c5681d8a1b86.1920x1080.jpg?t=1578499642 =100x20" alt="the night of the rabbit" style="zoom:20%;"/> 
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/230820/ss_5aa0941b6405e4974d252bcfb449b46b4beef155.1920x1080.jpg?t=1578499642 =100x20" alt="the night of the rabbit" style="zoom:20%;"/> <img src="https://cdn.akamai.steamstatic.com/steam/apps/230820/ss_4e94691e8ec747c463a467ba03e98fc7946dae9a.1920x1080.jpg?t=1578499642 =100x20" alt="the night of the rabbit" style="zoom:20%;"/> 
