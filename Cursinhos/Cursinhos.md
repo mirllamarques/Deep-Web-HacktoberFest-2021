@@ -38,8 +38,6 @@
 
 ---
 
----
-
 ## Curso de programação orientada a objeto em Java e PHP
  
 - É um curso de programação orientada a objeto com exemplos práticos em Java e também em PHP, como os conceitos de Herança, Encapsulamento e Polimorfismo.
