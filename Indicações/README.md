@@ -9,5 +9,6 @@ Indique aqui sua forma favorita de entreterimento, para sua PR ser aceita você 
 - Nele você deve escrever (sem spoiler) o porque você recomenda isso (exceto se for música)
 - Ter ao menos uma foto da capa mesmo (exceto se for música)
 - Se for uma música você pode colocar o link para clipe/lyrcs do YouTube
+- Você também pode deixar o link pra sua playlist em qualquer plataforma
 - Se for um filme ou série conter a ficha técnica
 - Se for um game onde comprar/jogar e faixa de preço (se for pago)
