@@ -1,3 +1,4 @@
+#n-Queen is a problem based on backtracking algorithm in C++
 #include<iostream>
 using namespace std;
 
